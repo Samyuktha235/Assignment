@@ -1,0 +1,1333 @@
+SinglyLinkedList:
+
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+1
+Enter the num to add:
+23
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+1
+Enter the num to add:
+5
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+1
+Enter the num to add:
+66
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+1
+Enter the num to add:
+22
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+1
+Enter the num to add:
+33
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+2
+Enter the element to delete:
+56
+Element not found.Hence not deleted
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+2
+Enter the element to delete:
+66
+Element Deleted
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+4
+Enter the position and element to insert:
+Position:
+13
+Element:
+33
+Enter a valid position. The size of list is 3
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+4
+Enter the position and element to insert:
+Position:
+4
+Element:
+65
+Element Inserted
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+6
+Displaying the list:
+23 5 22 65 33
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+5
+The list is reversed
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+6
+Displaying the list:
+33 65 22 5 23
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+3
+Enter the element to search:
+23
+Element not found
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+3
+Enter the element to search:
+76
+Element not found
+1.Add
+2.Delete
+3.Search
+4.insert
+5.reverse
+6.Display
+7.Complete Operation
+7
+Operations Ended
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Doubly LinkedList:
+
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+1
+Enter at element to add at first:
+23
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+1
+Enter at element to add at first:
+45
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+5
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+46
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+45 23 5 46
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+4
+Deleted element from the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+5
+Deleted element from the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+3
+Enter the element to add at a position:
+Position:
+2
+Element:
+67
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+6
+Enter the position to delete:
+Position:
+2
+Element deleted
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+23 5
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+8
+Enter the element to search:
+23
+Element found
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+3
+Enter the element to add at a position:
+Position:
+2
+Element:
+66
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+55
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+9
+Reverse performed
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+55 5 66 23
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+8
+Enter the element to search:
+23
+Element found
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+4
+Deleted element from the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+4
+List is empty
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+4
+List is empty
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+4
+List is empty
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+List is empty
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+1
+Enter at element to add at first:
+4
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+5
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+3
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+23
+Element added to the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+4 5 3 23
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+7
+Enter the element to delete
+Element:
+4
+Deleted element from the list
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+7
+Enter the element to delete
+Element:
+8
+Element not found to delete it
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+5 3 23
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+6
+Enter the position to delete:
+Position:
+2
+Element deleted
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+5 23
+Enter the choice to perform the Operations:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+11
+Operations Ended
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Circularly LinkedList:
+
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+1
+Enter at element to add at first:
+23
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+1
+Enter at element to add at first:
+54
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+5
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+78
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+3
+Enter the element to add at a position:
+Position:
+3
+Element:
+76
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+54 23 76 5 78
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+4
+Deleted element from the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+5
+Deleted element from the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+23 76 5
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+6
+Enter the position to delete:
+Position:
+2
+Element deleted
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+23 5
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+3
+Enter the element to add at a position:
+Position:
+2
+Element:
+44
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+23 44 5
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+7
+Enter the element to delete
+Element:
+44
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+23 5
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+1
+Enter at element to add at first:
+5
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+55
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+2
+Enter the element to add at last
+76
+Element added to the list
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+5 23 5 55 76
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+9
+list is Reversed
+Reverse performed
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+10
+Elements in the linked list are:
+76 55 5 23 5
+Enter the Choice to proceed the operation in the list:
+1.AddFirst
+2.AddLast
+3.Add at position
+4.DeleteFirst
+5.DeleteLast
+6.Delete at Position
+7.Delete an element
+8.Search
+9.Reverse
+10.Display
+11.End Operations
+11
+Operations Ended
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Stack:
+
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+1
+Enter the value to add to the stack:
+23
+23 is added to the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+1
+Enter the value to add to the stack:
+5
+5 is added to the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+1
+Enter the value to add to the stack:
+65
+65 is added to the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+1
+Enter the value to add to the stack:
+34
+34 is added to the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+3
+The top element of stack is 34
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+4
+The stack is not empty
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+5
+Size of the stack is 4
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+2
+34 is popped from the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+2
+65 is popped from the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+2
+5 is popped from the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+3
+The top element of stack is 23
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+4
+The stack is not empty
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+2
+23 is popped from the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+3
+Stack is empty.Cannot peek from the stack
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+2
+Stack is empty. Cannot pop the elements
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+6
+Stack is empty
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+4
+The stack is empty
+Enter the Choice to proceed the operation in the Stack:
+1.Push
+2.Pop
+3.Peek
+4.isEmpty
+5.Size of the Stack
+6.Display
+7.End operation
+7
+Operations Completed
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Queue:
+
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+1
+Enter the element to add to the queue:
+23
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+1
+Enter the element to add to the queue:
+5
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+1
+Enter the element to add to the queue:
+43
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+1
+Enter the element to add to the queue:
+65
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+3
+23 is the peek of the queue
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+2
+23 is polled from the queue
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+2
+5 is polled from the queue
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+4
+The elements in the Queue are:
+43 65
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+2
+43 is polled from the queue
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+2
+65 is polled from the queue
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+2
+No elements in the queue.Hence cannot poll the element
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+3
+No elements in the queue.So cannot peek from the queue
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+4
+The elements in the Queue are:
+Queue is Empty
+Enter the Choice to proceed the operation in the Queue:
+1.Push
+2.Poll
+3.Peek
+4.Display
+5.End operations
+5
+Operation Ended
+
+
+

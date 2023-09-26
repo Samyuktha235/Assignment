@@ -1,0 +1,2 @@
+Protected clas Justification:
+       As the protected method can be accessed by other class in the same package and we didnt create a package so that it is considered to be in same package so we were able to access it.
