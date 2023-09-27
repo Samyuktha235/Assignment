@@ -12,7 +12,7 @@ PRIMARY KEY(a_name,a_address));
 
 
 create table publisher(
-p_name varchar(30),
+p_name varchar(30) primary key,
 p_address varchar(300),
 p_phone char(10),
 p_url varchar(2048));
@@ -41,8 +41,11 @@ create table shopping_basket(
 basket_id int primary key,
 c_email varchar(300),
 ISBN varchar(20),
+total_amount int,
 foreign key (c_email) references customer(c_email),
 foreign key (ISBN) references book(ISBN));
+
+
 
 create table warehouse(
 w_code int primary key,
@@ -56,4 +59,5 @@ no_of_copies int,
 foreign key (ISBN) references book(ISBN),
 foreign key (w_code) references warehouse(w_code),
 primary key(ISBN,w_code));
+
 
